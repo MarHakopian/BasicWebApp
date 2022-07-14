@@ -14,9 +14,10 @@ public class QueryProcessor {
         } else if (query.contains("name")) {
             return "Mar";
         }
-
+        else if (query.contains("numbers")) {
+            return "20479";}
         else {
-            return "20479";
+            return "";
         }
     }
 }
