@@ -15,7 +15,7 @@ public class QueryProcessor {
             return "Mar";
         }
 
-        else { // TODO extend the programm here
+        else {
             return "";
         }
     }
