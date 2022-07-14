@@ -16,7 +16,7 @@ public class QueryProcessor {
         }
 
         else { // TODO extend the programm here
-            return "Aamin";
+            return "";
         }
     }
 }
